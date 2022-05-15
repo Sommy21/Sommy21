@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hey there! I am Soham Faldu.</h1>
+<p align="right"><i>~ the coolest nerd 😎</i></p>
+<h3>About Me!</h3>
+<ul>
+  <li>A Final Year Undergraduate pursuing Computer Science and Enginneering.</li>
+  <li>My passion is development.</li>
+  <li>I enjoy talking to the universe through Mathematics.</li>
+  <li>Enjoy playing Table Tennis!</li>
+  <li>Garba for Infinity!</li>
+</ul>
+<br>
+<h3>My Stats!</h3>
 
-<!--
-**Sommy21/Sommy21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| ![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sommy21&count_private=true&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sommy21&layout=compact&count_private=true&show_icons=true&theme=dark) |
+| --- | --- |
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
