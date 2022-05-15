@@ -15,3 +15,10 @@
 | --- | --- |
 
 
+<h3>Technologies!</h3>
+<ul>
+  <li>Programming Languages: C,C++,Python,Java,JavaScript,Dart,PHP</li>  
+  <li>Web Devlopment: HTML,CSS,JavaScript,NodeJs,Mongoose</li>
+  <li>App Development: Flutter,Dart</li>
+  <li>Machine Learning: Python</li>
+</ul>
