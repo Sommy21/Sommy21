@@ -14,7 +14,7 @@
 | ![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sommy21&count_private=true&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sommy21&layout=compact&count_private=true&show_icons=true&theme=dark) |
 | --- | --- |
 
-
+<br>
 <h3>Technologies!</h3>
 <ul>
   <li>Programming Languages: C,C++,Python,Java,JavaScript,Dart,PHP</li>  
@@ -22,3 +22,4 @@
   <li>App Development: Flutter,Dart</li>
   <li>Machine Learning: Python</li>
 </ul>
+
