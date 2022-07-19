@@ -11,7 +11,7 @@
 <br>
 <h3>My Stats!</h3>
 
-| ![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sommy21&count_private=false&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sommy21&layout=compact&count_private=true&show_icons=true&theme=dark) |
+| ![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=deadshot-21&count_private=false&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadshot-21&layout=compact&count_private=true&show_icons=true&theme=dark) |
 | --- | --- |
 
 <br>
