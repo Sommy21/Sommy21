@@ -2,7 +2,7 @@
 <p align="right"><i>~ the coolest nerd 😎</i></p>
 <h3>About Me!</h3>
 <ul>
-  <li>A Final Year Undergraduate pursuing Computer Science and Enginneering.</li>
+  <li>A Final Year Undergraduate studying Computer Science and Engineering.</li>
   <li>My passion is development.</li>
   <li>I enjoy talking to the universe through Mathematics.</li>
   <li>Enjoy playing Table Tennis!</li>
