@@ -9,7 +9,6 @@
   <li>Garba for Infinity!</li>
 </ul>
 <br>
-<br>
 <p align=center>
 <a href="https://www.linkedin.com/in/soham-faldu-80408123a/">
   <img style="margin-right:20px" alt="Soham Faldu | LinkedIn" width="40px" src="./assets/linkedin.svg" />
@@ -19,7 +18,6 @@
   <img align="" alt="Soham Faldu | Instagram" width="40px" src="./assets/instagram.svg" />
 </a>
 </p>
-<br>
 <br>
 
 <h2 align="center">Statistics</h2>
