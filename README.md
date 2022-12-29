@@ -10,6 +10,17 @@
 </ul>
 <br>
 <br>
+<p align=center>
+<a href="https://www.linkedin.com/in/soham-faldu-80408123a/">
+  <img style="margin-right:20px" alt="Soham Faldu | LinkedIn" width="40px" src="./assets/linkedin.svg" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/soham_21/">
+  <img align="" alt="Soham Faldu | Instagram" width="40px" src="./assets/instagram.svg" />
+</a>
+</p>
+<br>
+<br>
 
 <h2 align="center">Statistics</h2>
 <br>
@@ -92,20 +103,5 @@
 <img src="./assets/react-original.svg" alt="react" width="50" height="50"/> 
 &nbsp;
 </p>
-<br>
-<br>
-<h2 align="center">My Socials</h2>
-<br>
-<br>
-<p align=center>
-<a href="https://www.linkedin.com/in/soham-faldu-80408123a/">
-  <img style="margin-right:20px" alt="Soham Faldu | LinkedIn" width="40px" src="./assets/linkedin.svg" />
-</a>
-&nbsp;
-<a href="https://www.instagram.com/soham_21/">
-  <img align="" alt="Soham Faldu | Instagram" width="40px" src="./assets/instagram.svg" />
-</a>
-</p>
-
 <br>
 <br>
