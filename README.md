@@ -3,10 +3,11 @@
 <h3>About Me!</h3>
 <ul>
   <li>Grad student studying MS in Computer Science at NYU</li>
-  <li>My passion is development.</li>
-  <li>I enjoy talking to the universe through Mathematics.</li>
-  <li>Enjoy playing Table Tennis!</li>
-  <li>Garba for Infinity!</li>
+  <li>Versatile Software Developer with expertise in software development, app development, and machine learning.</li>
+  <li>Specializes in building high-performance applications and integrating machine learning into user-focused solutions.</li>
+  <li>Passionate about leveraging emerging technologies like quantum computing and crypto to drive innovation.</li>
+  <li>Seeking opportunities in software engineering, mobile app development, or advanced machine learning.</li>
+  <li>Eager to contribute to meaningful projects and continue growing professionally.</li>
 </ul>
 <br>
 <p align=center>
